@@ -1,0 +1,1 @@
+Put components in a single header file 
